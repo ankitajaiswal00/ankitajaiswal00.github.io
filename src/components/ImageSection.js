@@ -1,5 +1,5 @@
 import React from 'react';
-import about from '../imgs/header.jpg';
+import about from '../imgs/Ankita.jpg';
 
 function ImageSection() {
     return (
