@@ -80,13 +80,13 @@ return(
 					Welcome!
 				</p>
 				<div className="icons">
-					<a href="https://www.github.com/JAZz-9/" className="icon-holder ">
+					<a href="https://www.github.com/ankitajaiswal00/" className="icon-holder ">
 						<FontAwesomeIcon icon={faGithub} className="icon gh"/>
 					</a>
-					<a href="https://www.github.com/JAZz-9/" className="icon-holder">
+					<a href="https://www.linkedin.com/in/ankitajaiswal00/" className="icon-holder">
 						<FontAwesomeIcon icon={faLinkedin} className="icon ln"/>
 					</a>
-					<a href="https://www.github.com/JAZz-9/" className="icon-holder">
+					<a href="https://www.youtube.com/channel/UCdZWZ6hAbDTzpgZtC4kCfMA" className="icon-holder">
 						<FontAwesomeIcon icon={faYoutube} className="icon yt"/>
 					</a>
 				</div>
